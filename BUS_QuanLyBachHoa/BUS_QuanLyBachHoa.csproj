@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B06709CA-E6E9-4FDB-90F0-5FD0B0ED586A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BUS_QuanLyBachHoa</RootNamespace>
+    <AssemblyName>BUS_QuanLyBachHoa</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS_Bill.cs" />
+    <Compile Include="BUS_ChiTietBill.cs" />
+    <Compile Include="BUS_ChiTietHoaDonBan.cs" />
+    <Compile Include="BUS_ChiTietHoaDonNhap.cs" />
+    <Compile Include="BUS_ChucVu.cs" />
+    <Compile Include="BUS_Hang.cs" />
+    <Compile Include="BUS_HoaDonBan.cs" />
+    <Compile Include="BUS_HoaDonNhap.cs" />
+    <Compile Include="BUS_KhachHang.cs" />
+    <Compile Include="BUS_LoaiHang.cs" />
+    <Compile Include="BUS_TaiKhoan.cs" />
+    <Compile Include="BUS_NhaCungCap.cs" />
+    <Compile Include="BUS_NhanVien.cs" />
+    <Compile Include="Functions\BaseModel.cs" />
+    <Compile Include="Functions\BUS_Function.cs" />
+    <Compile Include="Functions\ConnectSql.cs" />
+    <Compile Include="Functions\ConnectSqlEx.cs" />
+    <Compile Include="Functions\DangNhapModel.cs" />
+    <Compile Include="Functions\DoiMatKhauModel.cs" />
+    <Compile Include="Functions\KiemTraKetNoi.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL_QuanLyBachHoa\DAL_QuanLyBachHoa.csproj">
+      <Project>{09316f6c-b861-4baa-89fd-777711da8d01}</Project>
+      <Name>DAL_QuanLyBachHoa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_QuanLyBachHoa\DTO_QuanLyBachHoa.csproj">
+      <Project>{e7b2b36c-3be7-448a-86e9-67a6f2a0825c}</Project>
+      <Name>DTO_QuanLyBachHoa</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

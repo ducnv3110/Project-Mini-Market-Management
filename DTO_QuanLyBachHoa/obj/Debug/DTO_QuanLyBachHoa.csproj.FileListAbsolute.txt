@@ -1,0 +1,115 @@
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\GUI_QuanLyBachHoa\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\GUI_QuanLyBachHoa\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\GUI_QuanLyBachHoa\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\GUI_QuanLyBachHoa\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csprojResolveAssemblyReference.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 1\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 1\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 1\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 1\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 1 - Copy\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 1 - Copy\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 1 - Copy\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 1 - Copy\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 6\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 6\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 6\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 6\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 7\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 7\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 7\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 7\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 7\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csprojResolveAssemblyReference.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 8\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 8\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 8\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 8\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 8\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csprojResolveAssemblyReference.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 9\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 9\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 9\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 9\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 10\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 10\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 10\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 10\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 13\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 13\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 13\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 13\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 13\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 15\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 15\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 15\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 15\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 15\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 16\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 16\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 16\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.AssemblyReference.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 16\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 16\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 16\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 19\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 19\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 19\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 19\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 19\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 20\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 20\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 20\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.AssemblyReference.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 20\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 20\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 20\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 21\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 21\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 21\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.AssemblyReference.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 21\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 21\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 21\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 22\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 22\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 22\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 22\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 22\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 25\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 25\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 25\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.AssemblyReference.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 25\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 25\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 25\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 28 - print barcode\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 28 - print barcode\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 28 - print barcode\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 28 - print barcode\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Module CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 28 - print barcode\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 31 - done chua test full chuc nang\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 31 - done chua test full chuc nang\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 31 - done chua test full chuc nang\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 31 - done chua test full chuc nang\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 31 - done chua test full chuc nang\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 32 - sua db\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 32 - sua db\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 32 - sua db\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 32 - sua db\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 32 - sua db\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 33 - sua db standar\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 33 - sua db standar\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 33 - sua db standar\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.AssemblyReference.cache
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 33 - sua db standar\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 33 - sua db standar\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 33 - sua db standar\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 35 - Copy\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 35 - Copy\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 35 - Copy\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 35 - Copy\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 35 - Copy\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 41 - cleaning\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.dll
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 41 - cleaning\DTO_QuanLyBachHoa\bin\Debug\DTO_QuanLyBachHoa.pdb
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 41 - cleaning\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.AssemblyReference.cache
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 41 - cleaning\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.csproj.CoreCompileInputs.cache
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 41 - cleaning\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.dll
+E:\Courses CNTT\Project_QuanLyBachHoa_NguyenVuDuc\QuanLyBachHoa - 41 - cleaning\DTO_QuanLyBachHoa\obj\Debug\DTO_QuanLyBachHoa.pdb

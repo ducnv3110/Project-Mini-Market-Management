@@ -1,0 +1,1 @@
+Data Source=.\sqlexpress; Initial Catalog=QLBachHoa;User ID=sa;password=123456

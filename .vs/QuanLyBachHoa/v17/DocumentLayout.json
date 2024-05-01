@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89BC2617-2A9D-4098-8C77-3B947AD2E302}|GUI_QuanLyBachHoa\\GUI_QuanLyBachHoa.csproj|e:\\courses cntt\\project_quanlybachhoa_nguyenvuduc\\quanlybachhoa - 41 - cleaning\\gui_quanlybachhoa\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BC2617-2A9D-4098-8C77-3B947AD2E302}|GUI_QuanLyBachHoa\\GUI_QuanLyBachHoa.csproj|solutionrelative:gui_quanlybachhoa\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|e:\\courses cntt\\project_quanlybachhoa_nguyenvuduc\\quanlybachhoa - 41 - cleaning\\dto_quanlybachhoa\\dto_hoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|solutionrelative:dto_quanlybachhoa\\dto_hoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|e:\\courses cntt\\project_quanlybachhoa_nguyenvuduc\\quanlybachhoa - 41 - cleaning\\dto_quanlybachhoa\\dto_hoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|solutionrelative:dto_quanlybachhoa\\dto_hoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|e:\\courses cntt\\project_quanlybachhoa_nguyenvuduc\\quanlybachhoa - 41 - cleaning\\dto_quanlybachhoa\\dto_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|solutionrelative:dto_quanlybachhoa\\dto_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|e:\\courses cntt\\project_quanlybachhoa_nguyenvuduc\\quanlybachhoa - 41 - cleaning\\dto_quanlybachhoa\\dto_chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|solutionrelative:dto_quanlybachhoa\\dto_chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|e:\\courses cntt\\project_quanlybachhoa_nguyenvuduc\\quanlybachhoa - 41 - cleaning\\dto_quanlybachhoa\\dto_chitiethoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|solutionrelative:dto_quanlybachhoa\\dto_chitiethoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|e:\\courses cntt\\project_quanlybachhoa_nguyenvuduc\\quanlybachhoa - 41 - cleaning\\dto_quanlybachhoa\\dto_chitiethoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|solutionrelative:dto_quanlybachhoa\\dto_chitiethoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|e:\\courses cntt\\project_quanlybachhoa_nguyenvuduc\\quanlybachhoa - 41 - cleaning\\dto_quanlybachhoa\\dto_chitietbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|solutionrelative:dto_quanlybachhoa\\dto_chitietbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|e:\\courses cntt\\project_quanlybachhoa_nguyenvuduc\\quanlybachhoa - 41 - cleaning\\dto_quanlybachhoa\\dto_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|solutionrelative:dto_quanlybachhoa\\dto_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09316F6C-B861-4BAA-89FD-777711DA8D01}|DAL_QuanLyBachHoa\\DAL_QuanLyBachHoa.csproj|e:\\courses cntt\\project_quanlybachhoa_nguyenvuduc\\quanlybachhoa - 41 - cleaning\\dal_quanlybachhoa\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09316F6C-B861-4BAA-89FD-777711DA8D01}|DAL_QuanLyBachHoa\\DAL_QuanLyBachHoa.csproj|solutionrelative:dal_quanlybachhoa\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BC2617-2A9D-4098-8C77-3B947AD2E302}|GUI_QuanLyBachHoa\\GUI_QuanLyBachHoa.csproj|E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\gui_quanlybachhoa\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BC2617-2A9D-4098-8C77-3B947AD2E302}|GUI_QuanLyBachHoa\\GUI_QuanLyBachHoa.csproj|solutionrelative:gui_quanlybachhoa\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BC2617-2A9D-4098-8C77-3B947AD2E302}|GUI_QuanLyBachHoa\\GUI_QuanLyBachHoa.csproj|E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\gui_quanlybachhoa\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89BC2617-2A9D-4098-8C77-3B947AD2E302}|GUI_QuanLyBachHoa\\GUI_QuanLyBachHoa.csproj|solutionrelative:gui_quanlybachhoa\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09316F6C-B861-4BAA-89FD-777711DA8D01}|DAL_QuanLyBachHoa\\DAL_QuanLyBachHoa.csproj|E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\dal_quanlybachhoa\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09316F6C-B861-4BAA-89FD-777711DA8D01}|DAL_QuanLyBachHoa\\DAL_QuanLyBachHoa.csproj|solutionrelative:dal_quanlybachhoa\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BC2617-2A9D-4098-8C77-3B947AD2E302}|GUI_QuanLyBachHoa\\GUI_QuanLyBachHoa.csproj|E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\gui_quanlybachhoa\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BC2617-2A9D-4098-8C77-3B947AD2E302}|GUI_QuanLyBachHoa\\GUI_QuanLyBachHoa.csproj|solutionrelative:gui_quanlybachhoa\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\dto_quanlybachhoa\\dto_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|solutionrelative:dto_quanlybachhoa\\dto_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BC2617-2A9D-4098-8C77-3B947AD2E302}|GUI_QuanLyBachHoa\\GUI_QuanLyBachHoa.csproj|E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\gui_quanlybachhoa\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BC2617-2A9D-4098-8C77-3B947AD2E302}|GUI_QuanLyBachHoa\\GUI_QuanLyBachHoa.csproj|solutionrelative:gui_quanlybachhoa\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09316F6C-B861-4BAA-89FD-777711DA8D01}|DAL_QuanLyBachHoa\\DAL_QuanLyBachHoa.csproj|E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\dal_quanlybachhoa\\dal_chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09316F6C-B861-4BAA-89FD-777711DA8D01}|DAL_QuanLyBachHoa\\DAL_QuanLyBachHoa.csproj|solutionrelative:dal_quanlybachhoa\\dal_chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\dto_quanlybachhoa\\dto_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B2B36C-3BE7-448A-86E9-67A6F2A0825C}|DTO_QuanLyBachHoa\\DTO_QuanLyBachHoa.csproj|solutionrelative:dto_quanlybachhoa\\dto_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09316F6C-B861-4BAA-89FD-777711DA8D01}|DAL_QuanLyBachHoa\\DAL_QuanLyBachHoa.csproj|E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\dal_quanlybachhoa\\dal_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09316F6C-B861-4BAA-89FD-777711DA8D01}|DAL_QuanLyBachHoa\\DAL_QuanLyBachHoa.csproj|solutionrelative:dal_quanlybachhoa\\dal_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBill.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\GUI_QuanLyBachHoa\\frmBill.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyBachHoa\\frmBill.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\GUI_QuanLyBachHoa\\frmBill.cs",
+              "RelativeToolTip": "GUI_QuanLyBachHoa\\frmBill.cs",
+              "ViewState": "AQIAABsCAAAAAAAAAAAuwL0BAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:56:29.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DTO_HoaDonNhap.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_HoaDonNhap.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyBachHoa\\DTO_HoaDonNhap.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_HoaDonNhap.cs",
+              "RelativeToolTip": "DTO_QuanLyBachHoa\\DTO_HoaDonNhap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:56:24.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DTO_HoaDonBan.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_HoaDonBan.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyBachHoa\\DTO_HoaDonBan.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_HoaDonBan.cs",
+              "RelativeToolTip": "DTO_QuanLyBachHoa\\DTO_HoaDonBan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:56:23.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTO_Hang.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_Hang.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyBachHoa\\DTO_Hang.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_Hang.cs",
+              "RelativeToolTip": "DTO_QuanLyBachHoa\\DTO_Hang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:56:21.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTO_ChucVu.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_ChucVu.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyBachHoa\\DTO_ChucVu.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_ChucVu.cs",
+              "RelativeToolTip": "DTO_QuanLyBachHoa\\DTO_ChucVu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:56:20.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DTO_ChiTietHoaDonNhap.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_ChiTietHoaDonNhap.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyBachHoa\\DTO_ChiTietHoaDonNhap.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_ChiTietHoaDonNhap.cs",
+              "RelativeToolTip": "DTO_QuanLyBachHoa\\DTO_ChiTietHoaDonNhap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:56:17.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTO_ChiTietHoaDonBan.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_ChiTietHoaDonBan.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyBachHoa\\DTO_ChiTietHoaDonBan.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_ChiTietHoaDonBan.cs",
+              "RelativeToolTip": "DTO_QuanLyBachHoa\\DTO_ChiTietHoaDonBan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:56:16.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTO_ChiTietBill.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_ChiTietBill.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyBachHoa\\DTO_ChiTietBill.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_ChiTietBill.cs",
+              "RelativeToolTip": "DTO_QuanLyBachHoa\\DTO_ChiTietBill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:56:13.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DTO_Bill.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_Bill.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyBachHoa\\DTO_Bill.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_Bill.cs",
+              "RelativeToolTip": "DTO_QuanLyBachHoa\\DTO_Bill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:56:10.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\GUI_QuanLyBachHoa\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyBachHoa\\frmMain.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\GUI_QuanLyBachHoa\\frmMain.cs*",
+              "RelativeToolTip": "GUI_QuanLyBachHoa\\frmMain.cs*",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAJwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:54:33.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\GUI_QuanLyBachHoa\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyBachHoa\\frmMain.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\GUI_QuanLyBachHoa\\frmMain.cs [Design]*",
+              "RelativeToolTip": "GUI_QuanLyBachHoa\\frmMain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:54:17.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DAL_NhanVien.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DAL_QuanLyBachHoa\\DAL_NhanVien.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyBachHoa\\DAL_NhanVien.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DAL_QuanLyBachHoa\\DAL_NhanVien.cs",
+              "RelativeToolTip": "DAL_QuanLyBachHoa\\DAL_NhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:41:37.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DTO_NhanVien.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_NhanVien.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyBachHoa\\DTO_NhanVien.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_NhanVien.cs",
+              "RelativeToolTip": "DTO_QuanLyBachHoa\\DTO_NhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:08:05.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\GUI_QuanLyBachHoa\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyBachHoa\\frmNhanVien.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\GUI_QuanLyBachHoa\\frmNhanVien.cs",
+              "RelativeToolTip": "GUI_QuanLyBachHoa\\frmNhanVien.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwJEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:06:59.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmChucVu.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\GUI_QuanLyBachHoa\\frmChucVu.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyBachHoa\\frmChucVu.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\GUI_QuanLyBachHoa\\frmChucVu.cs",
+              "RelativeToolTip": "GUI_QuanLyBachHoa\\frmChucVu.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:19:25.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DAL_Hang.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DAL_QuanLyBachHoa\\DAL_Hang.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyBachHoa\\DAL_Hang.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DAL_QuanLyBachHoa\\DAL_Hang.cs",
+              "RelativeToolTip": "DAL_QuanLyBachHoa\\DAL_Hang.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAuwGwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:59:06.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DAL_ChucVu.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DAL_QuanLyBachHoa\\DAL_ChucVu.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyBachHoa\\DAL_ChucVu.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DAL_QuanLyBachHoa\\DAL_ChucVu.cs",
+              "RelativeToolTip": "DAL_QuanLyBachHoa\\DAL_ChucVu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:51:05.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DAL_QuanLyBachHoa\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyBachHoa\\DBConnect.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DAL_QuanLyBachHoa\\DBConnect.cs",
+              "RelativeToolTip": "DAL_QuanLyBachHoa\\DBConnect.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAuwMkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:41:03.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DTO_NhaCungCap.cs",
+              "DocumentMoniker": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_NhaCungCap.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyBachHoa\\DTO_NhaCungCap.cs",
+              "ToolTip": "E:\\Courses CNTT\\Project_QuanLyBachHoa_NguyenVuDuc\\QuanLyBachHoa - 41 - cleaning\\DTO_QuanLyBachHoa\\DTO_NhaCungCap.cs",
+              "RelativeToolTip": "DTO_QuanLyBachHoa\\DTO_NhaCungCap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:34:55.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
